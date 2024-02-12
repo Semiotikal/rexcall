@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="287.15244"
+   height="262.30011"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="rexcall-icon.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38037109"
+     inkscape:cx="187.97433"
+     inkscape:cy="139.33761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <g
+     style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+     id="g2"
+     transform="matrix(1.8759305,0,0,1.8759305,-443.51124,-629.59229)">
+    <path
+       fill="#ffffff"
+       d="m 410.085,-15.84 c 3.096,-1.512 5.544,-3.6 7.272,-6.336 1.728,-2.736 2.592,-5.904 2.592,-9.576 0,-3.744 -0.936,-7.056 -2.736,-9.864 -1.872,-2.808 -4.464,-4.968 -7.776,-6.48 -3.384,-1.512 -7.344,-2.304 -11.88,-2.304 h -23.04 v 11.232 h 22.176 c 2.88,0 5.112,0.648 6.624,1.944 1.44,1.296 2.232,3.168 2.232,5.472 0,2.376 -0.792,4.176 -2.232,5.472 -1.512,1.296 -3.744,1.872 -6.624,1.872 H 374.517 V 0 h 14.256 v -13.392 h 7.776 L 405.693,0 h 15.264 z"
+       style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+       transform="matrix(2,0,0,2,-512.612,436.416)"
+       id="path1"
+       sodipodi:nodetypes="cssccsccscscscccccccc" />
+    <path
+       fill="#ffffff"
+       d="m 358.246,475.44 h 31.248 l -29.808,-40.032 28.8,-38.016 h -28.944 l -14.4,19.728 -13.824,-19.728 h -30.816 l 28.8,39.024 -29.664,39.024 h 29.664 l 14.976,-20.448 z"
+       style="font-style:normal;font-weight:800;font-size:72px;line-height:1;font-family:'Montserrat ExtraBold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle;fill:#9debd7;fill-opacity:1;stroke-width:2"
+       id="path3"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>
