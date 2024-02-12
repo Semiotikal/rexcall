@@ -1,0 +1,86 @@
+#telNo, #rxNo, #year {
+    font-size: 1rem;
+    font-weight: inherit;
+    letter-spacing: .1rem;
+    height: 56px;
+    width: 200px;
+    line-height: 20px;
+    text-decoration: inherit;
+    text-transform: inherit;
+    border: 1px solid;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 4px 0 rgb(119 122 175 / 30%);
+    :focus {
+        border-color: #00bdd6;
+        box-shadow: 0 1px 0 0 rgb(35 38 59 / 5%);
+    }
+}
+
+input:invalid {
+        box-shadow: 0 0 5px 1px red;
+}
+
+input:focus:invalid {
+    box-shadow: none;
+}
+
+#terminal {
+    text-shadow: 0 0 5px #C8C8C8;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    padding:  10px; /* Padding around the text */
+    border-radius:  5px; /* Rounded corners */
+    width:  600px; /* Fixed width */
+    height:  400px; /* Fixed height */
+    overflow: auto; /* Scrollbar if needed */
+    font: 1.3rem Inconsolata, monospace;
+    font-size:  14px; /* Font size */
+    line-height:  1.5; /* Line height */
+    white-space: pre; /* Preserve spaces and line breaks */
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: repeating-linear-gradient(
+          0deg,
+          rgba(black, 0.15),
+          rgba(black, 0.15) 1px,
+          transparent 1px,
+          transparent 2px
+        );
+        pointer-events: none;
+      }
+    }
+    ::selection {
+      background: #0080FF;
+      text-shadow: none;
+    }
+    pre {
+      margin: 0;
+    }
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}
+
+@keyframes heart {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+  .heart {
+    animation: heart 1000ms infinite;
+  }
